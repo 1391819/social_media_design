@@ -12,13 +12,13 @@ One of the most important problems in our time is the fact that social media mak
 
 This repository contains a high-level prototype of a social media application that based on each user's schedule automatically organises and suggests local meet-ups and events. The main purpose of the system is to facilitate more meaningful social encounters between students based on location, university and hobbies.
 
-### How exactly is this application different from other social medias?
+### Differences from other social medias
 
-1. It doesn't let users add other people to their friends' list unless they met them firt. This prevents many dangerous things which are rather popular on other social medias such as cyber bullying
+1. It doesn't let users add other people to their friends' list unless they met them first. This prevents many dangerous things which are rather popular on other social medias such as cyber bullying
 
 2. It has a strict sign-up process designed in such a way as to avoid identity thief and fraud as much as possible
 
-3. It offers reward points, which encourage people to socially interact thus balancing the use of technology with their mental wellbeing
+3. It offers a points system which encourages people to socially interact thus balancing the use of technology with their mental wellbeing
 
 ## Features
 
@@ -27,7 +27,7 @@ This repository contains a high-level prototype of a social media application th
   - University classes notifications
     - In-built map view
 - [x] Friends and chat system
-- [x] Activities suggestions with other people who save similar hobbies
+- [x] Activity suggestions with other people who save similar hobbies
 - [x] Points system
   - Gain points for attending events/doing activities
   - Exchange points for discounts/vouchers
@@ -81,7 +81,7 @@ This repository contains a high-level prototype of a social media application th
   - Help the local government promote public local businesses
   - There will never be a shortage of university students
   - Add more sources of revenue
-  - People always strive to find happinese and positive wellbeing. The application supports people to overcome their fears and break out of their comfort zone (regarding social interactions)
+  - People always strive to find happiness and positive wellbeing. The application supports people to overcome their fears and break out of their comfort zone (regarding social interactions)
   - Number of users who access social media platforms via mobile devices are constantly increasing
 
 - **Threats**
