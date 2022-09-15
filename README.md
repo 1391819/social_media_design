@@ -57,7 +57,7 @@ This repository contains a high-level prototype of a social media application th
 ## Highlights
 
 <div align="center">
-  <img src="utils/intro.gif" alt="application overview gif"/>
+  <img src="utils/intro.gif" alt="application overview"/>
 </div>
 
 ## SWOT analysis
