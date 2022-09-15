@@ -93,7 +93,7 @@ This repository contains a high-level prototype of a social media application th
 
 ## License
 
-[MIT](https://github.com/1391819/MA-seek/blob/main/License.txt) © [Roberto Nacu](https://github.com/1391819)
+[MIT](https://github.com/1391819/social_media_design/blob/main/License.txt) © [Roberto Nacu](https://github.com/1391819)
 
 ## Attributions
 
