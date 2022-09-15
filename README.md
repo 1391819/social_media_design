@@ -45,10 +45,10 @@ This repository contains a high-level prototype of a social media application th
     - [ ] Questionnaires
     - [ ] Focus groups
 - **Design**
-  - [ ] Sketching
-  - [ ] Low fidelity prototype
-  - [ ] High fidelity mock-up
-  - [ ] Interactive flow diagram
+  - [x] Sketching
+  - [x] Low fidelity prototype
+  - [x] High fidelity mock-up
+  - [x] Interactive flow diagram
 - **Evaluation**
   - [ ] Review requirements specification and design
     - [ ] Cognitive walkthrough
